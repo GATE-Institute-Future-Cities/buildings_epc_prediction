@@ -1,6 +1,8 @@
 # Energy Consumption Prediction
 
-A machine learning project for predicting building energy demand using geospatial data and multiple ML/DL model architectures. Includes CPU vs. GPU performance benchmarking across hardware accelerators.
+This repository is dedicated for a data descriptor, titled "Dataset Supporting Context-Based Modelling and Prediction of Energy Consumption in Sofia City" and submitted to Nature Scientific Data. It includes the complete processing and modelling workflow, together with documentation, software dependencies, and instructions for reproducing the experiments described in this manuscript. The repository supports the prediction of building energy demand using geospatial data and multiple ML/DL model architectures. CPU vs. GPU performance benchmarking across hardware accelerators are included. The source code used for data processing, feature engineering, and predictive modelling is publicly available on GitHub: https://github.com/GATE-Institute-Future-Cities/buildings_epc_prediction
+
+The publicly released dataset consists of the cleaned EPC table and geolocated point dataset (Levels 1 and 2), containing 2,027 validated building records. The dataset is publicly available through Zenodo https://zenodo.org/records/18301550.
 
 ## Overview
 
