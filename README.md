@@ -5,7 +5,7 @@ This repository is dedicated for a data descriptor, titled "Dataset Supporting C
 The publicly released dataset consists of the cleaned EPC table and geolocated point dataset (Levels 1 and 2), containing 2,027 validated building records. The dataset is publicly available through Zenodo https://zenodo.org/records/18301550.
 For citation: Hristov, E., Terzieva, E., Aghazadeh Ardebili, A., Shirinyan, E., & Petrova-Antonova, D. (2026). Dataset for Context-Based Modeling and Prediction of Energy Consumption in Sofia City [Data set]. Zenodo. https://doi.org/10.5281/zenodo.18301550
 
-This dataset is licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
+This code and dataset are licensed under [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
 
 ## Overview
 
