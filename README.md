@@ -49,6 +49,7 @@ pip install contextily geopandas matplotlib rasterio tensorflow xgboost optuna
 
 ## Data
 
+Input datasets are located in Google Drive https://drive.google.com/drive/folders/1Dxgz5Sg6EbPbyIaFLVmO7bFAGgyAAWzN?usp=sharing 
 Input datasets are loaded from Google Drive and are not included in this repository:
 
 | File | Format | Description |
